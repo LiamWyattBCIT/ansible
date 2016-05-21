@@ -1,6 +1,6 @@
 ---
-service_account_email: 835365190331-compute@developer.gserviceaccount.com 
+service_account_email: 103245743847-compute@developer.gserviceaccount.com
 pem_file: /etc/ansible/gce_key.pem
-project_id: healthy-keyword-130723
+project_id: team-brioche
 machine_type: g1-small
 image: ubuntu-1604-xenial-v20160429
