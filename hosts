@@ -6,6 +6,7 @@ muninservers
 [webservers]
 web-server-[1:2]
 
+
 [lbservers]
 lb-server-[1:1]
 
